@@ -1,0 +1,6 @@
+Ruler size = 130 mm
+Camera frame rate = 22629 fps
+
+Gel block thickness = 300 mm
+Camera-to-block distance = 1280 mm
+Optical system = 85 mm
